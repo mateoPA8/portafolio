@@ -15,7 +15,7 @@ body{
     width: 100%;
     top: 0;
     left: 0;
-    position: absolute;
+    position: absolute;/*Un elemento posicionado absolutamente es un elemento cuyo valor de posición calculado es absoluto o fijo*/
 }
 .titulo
 {
